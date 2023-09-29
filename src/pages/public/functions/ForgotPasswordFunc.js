@@ -1,9 +1,9 @@
 import axios from "axios";
 
-const EmailActivationFunc = async (body) => {
+const ForgotPasswordFunc = async (body) => {
   try {
     const response = await axios.post(
-      process.env.REACT_APP_EMAILACTIVATION_API,
+      process.env.REACT_APP_FORGOTPASSWORD_API,
       body
     );
     return response;
@@ -11,5 +11,4 @@ const EmailActivationFunc = async (body) => {
     return e.response;
   }
 };
-
-export default EmailActivationFunc;
+export default ForgotPasswordFunc;
