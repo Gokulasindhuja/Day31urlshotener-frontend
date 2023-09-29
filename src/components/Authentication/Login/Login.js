@@ -64,7 +64,7 @@ function Login() {
   return (
     <div className={classes.container}>
       <p className={classes.credentials}>
-        User Credentials - ajayaj0302@gmail.com & ajayaj0302
+        User Credentials - happy@gmail.com & abcd1234
       </p>
       <div className={classes.title}>
         <h3 className={classes.title}>Login</h3>
