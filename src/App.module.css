@@ -1,0 +1,16 @@
+.App {
+  min-height: calc(100vh - 60px);
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper {
+  flex-grow: 1;
+  margin: 3em auto;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
