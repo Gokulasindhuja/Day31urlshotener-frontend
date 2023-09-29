@@ -3,8 +3,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 0.75rem;
-  background-color: #2874f0; 
-  color: white;
+  background-color: black; 
+  color: white; 
   flex: 1;
   height: 60px;
 }
