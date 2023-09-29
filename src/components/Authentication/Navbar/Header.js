@@ -9,7 +9,7 @@ function Header() {
   return (
     <div className="header">
       <h3 className="logo" onClick={() => history.replace("/")}>
-        Shortly
+        URLShortly
       </h3>
       <div className="menu">
         <div className="web-menu">
