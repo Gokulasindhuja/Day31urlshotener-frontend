@@ -28,7 +28,12 @@ const MonthlyChart = ({ data }) => {
         <YAxis />
         <Tooltip />
         <Legend />
-        <Line type="monotone" dataKey="day" stroke="#82ca9d" />
+        <Line
+          type="monotone"
+          dataKey="month"
+          stroke="#8884d8"
+          activeDot={{ r: 8 }}
+        />
       </LineChart>
     </div>
   );
