@@ -1,5 +1,9 @@
 # Day31urlshotener-frontend
 
+Frontend Deploy : https://main--dashing-fairy-d12409.netlify.app/
+
+Backend git repo : https://github.com/Gokulasindhuja/Day31urlshortener-backend/tree/main
+
 Task : Develop a URL shortening web Application with Frontend and backend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
